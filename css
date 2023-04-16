@@ -1,0 +1,52 @@
+.display {
+  text-align: center;
+  background-color:red;
+  padding:10%;
+  margin:auto;
+  text-decoration: overline;
+  font-size:800%;
+  border: 30px solid;
+  font-family:fantasy;
+}
+.title {
+  text-align: match-parent;
+  background-color:red;
+  padding:5%;
+  margin:auto;
+  text-decoration: overline;
+  font-size:600%;
+  border: 15px solid;
+  font-family:fantasy;
+}
+.video {
+  margin-left:25%;
+}
+p {
+  font-family:fantasy;
+  font-style: oblique;
+   margin:10%;
+  text-align: center;
+}
+.sidenav {
+  width: 200px;
+  z-index: 3;
+  top: 50px;
+  left: 30px;
+  background: #b4b4b4;
+  overflow-x: hidden;
+  float:right;
+  font-family:fantasy;
+  font-style: oblique;
+  text-align: center;
+  padding:36px;
+  margin:auto;
+  text-decoration: overline;
+  border: 15px solid;
+}
+.dates {
+  font-family:fantasy;
+  font-style: oblique;
+  text-align: center;
+  margin:auto;
+  font-size:125%;
+}
